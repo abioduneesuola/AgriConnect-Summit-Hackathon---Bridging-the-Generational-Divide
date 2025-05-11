@@ -1,6 +1,6 @@
 # Access to Affordable Finance for Young Agripreneurs in Nigeria
 
-This project was developed during a 12-day hackathon focused on solving one of Nigeria’s critical challenges: **limited access to finance for young agripreneurs**. Using real data, we built a data-driven solution to uncover key patterns, profile farmers, and support decision-making for financial inclusion.
+This project was developed during a 15-day hackathon focused on solving one of Nigeria’s critical challenges: **limited access to finance for young agripreneurs**. Using real data, we built a data-driven solution to uncover key patterns, profile farmers, and support decision-making for financial inclusion.
 
 ---
 
