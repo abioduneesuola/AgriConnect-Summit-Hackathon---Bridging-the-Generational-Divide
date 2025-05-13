@@ -32,7 +32,7 @@ Nigeria, 2018 - 2019
 
 - Power BI (EDA, dashboard)
 - Power Query (data cleaning , shaping)
-- Python (optional for modeling)
+- Python (for Machine Learning and predictive modeling)
 - Git & GitHub (version control)
 
 ---
